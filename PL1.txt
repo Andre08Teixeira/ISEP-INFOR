@@ -1,0 +1,21 @@
+BPMN
+
+Pool-> organizações
+
+Lanes
+
+
+Tasks
+
+
+Modelar exame de ARQSI:
+
+Pool-> ISEP
+
+Lanes-> Regente O inicia o processo
+, Restantes Docentes, Candidatos
+
+
+
+Tasks->
+
